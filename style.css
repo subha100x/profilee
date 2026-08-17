@@ -1,0 +1,16 @@
+h1 {
+  color: blue;
+}
+
+.intro {
+  color: green;
+}
+
+#heading {
+  font-size: 40px;
+}
+
+button {
+  background-color: black;
+  color: white;
+}
